@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-13T21:43:24.024Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VKGrt9qh-v7QINY30ODb" version="24.0.6" type="github" pages="2">
+<mxfile modified="2024-03-13T21:46:07.567Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JQ19qJX1ltrN_CSS_4Z-" version="24.0.6" type="github" pages="2">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1368" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KK_KuJS8XnM-4Xzug_Dw" name="Page-2">
-    <mxGraphModel dx="1207" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1809" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,20 @@
         </mxCell>
         <mxCell id="lj1WB8ZdeFGITBTXrACU-18" value="iSCSI zpool" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/hard_disk.svg;horizontal=1;verticalAlign=bottom;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1350" y="500" width="37.04" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lj1WB8ZdeFGITBTXrACU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lj1WB8ZdeFGITBTXrACU-5" target="AFSRrvldq1pOqM73cDaf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="575" />
+              <mxPoint x="940" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj1WB8ZdeFGITBTXrACU-24" value="SSD&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/SSD.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="579.09" width="45" height="40.91" as="geometry" />
+        </mxCell>
+        <mxCell id="lj1WB8ZdeFGITBTXrACU-25" value="SSD&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/SSD.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="579.09" width="45" height="40.91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
